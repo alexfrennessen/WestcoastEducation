@@ -34,6 +34,7 @@ public class Utbildningsledare : Lärare
             Address = Input("Adress"),
             PostalCode = Input("Postnummer"),
             City = Input("Ort")
+            
         };
 
         utbildningsledareLista.Add(nyUtbildningsledare);

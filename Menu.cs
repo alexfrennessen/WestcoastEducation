@@ -6,7 +6,6 @@ namespace WestcoastEducation;
 
 public class Menu : Lärare
 {
-
         public void RunMenu()
         {
                 try
